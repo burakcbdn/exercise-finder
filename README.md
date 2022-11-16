@@ -1,16 +1,13 @@
-# exercises_assistant_app
+# Exercise Finder
 
-A new Flutter project.
+Exercise finder app using [Exercises By API Ninjas](https://rapidapi.com/apininjas/api/exercises-by-api-ninjas/). Developed with Flutter. By [Burak Cabadan](https://burakcbdn.me)
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="./screenshots/1.png" alt="Screenshot 1" width="200"/>
+<img src="./screenshots/2.png" alt="Screenshot 1" width="200"/>
+<img src="./screenshots/3.png" alt="Screenshot 1" width="200"/>
+<img src="./screenshots/4.png" alt="Screenshot 1" width="200"/>
+<img src="./screenshots/5.png" alt="Screenshot 1" width="200"/>
+<img src="./screenshots/6.png" alt="Screenshot 1" width="200"/>
+<img src="./screenshots/7.png" alt="Screenshot 1" width="200"/>
